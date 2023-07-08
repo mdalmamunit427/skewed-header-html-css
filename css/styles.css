@@ -23,7 +23,8 @@ nav h3:hover{
     position: relative;
     width: 100%;
     height: 90vh;
-    background: linear-gradient(45deg, #8614ce, #ff0057);
+    background: linear-gradient(45deg, rgba(134, 20, 206, .4), rgba(255, 0, 87, .9)
+    ), url('/img/banner-img.png');
     display: flex;
     justify-content: center;
     align-items: center;
